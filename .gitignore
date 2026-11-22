@@ -1,0 +1,12 @@
+# OS & editor artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Temporary & draft files
+*.tmp
+*.bak
+draft*
+Draft*
